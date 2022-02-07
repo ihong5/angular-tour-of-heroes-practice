@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "tour-of-heroes-practice",
     "public": "public",
     "ignore": [
       "firebase.json",
