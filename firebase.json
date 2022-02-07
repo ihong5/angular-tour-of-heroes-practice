@@ -2,7 +2,7 @@
   "hosting": [
     {
       "site": "tour-of-heroes-practice",
-      "public": "dist/tour-of-heroes-practice",
+      "public": "dist/angular-tour-of-heroes-practice",
       "ignore": [
         "**/.*"
       ],
